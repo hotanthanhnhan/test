@@ -1,0 +1,11 @@
+tính năng C
+code dòng 1
+code dòng 2
+code dòng 3
+code dòng 4
+code dòng 5
+thêm dòng 6
+thêm dòng 7
+thêm dòng 8
+thêm dòng 9
+thêm dòng 10
