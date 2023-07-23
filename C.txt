@@ -6,3 +6,5 @@ code dòng 4
 code dòng 5
 thêm dòng 6
 thêm dòng 7
+thêm dòng 8
+thêm dòng 9
