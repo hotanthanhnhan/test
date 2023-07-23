@@ -4,3 +4,4 @@ code dòng 2
 code dòng 3
 code dòng 4
 code dòng 5
+thêm dòng 6
