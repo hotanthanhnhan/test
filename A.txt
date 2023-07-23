@@ -1,0 +1,3 @@
+Code trước khi tạo repository
+code dòng 1
+code dòng 2
