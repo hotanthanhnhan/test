@@ -1,0 +1,4 @@
+code tính năng B
+code dòng 1
+code dòng 2
+code dòng 3
