@@ -2,11 +2,12 @@ tính năng C
 code dòng thứ 1
 code dòng thứ 2
 code dòng 3
-code dòng số 4
+code dòng thứ 4
 code dòng thứ 5
 thêm dòng 6
-thêm dòng 7
+thêm dòng thứ 7
 thêm dòng 8
 thêm dòng 9
 thêm dòng 10
-thêm dòng 12
+
+thêm dòng  15
