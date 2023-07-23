@@ -1,6 +1,6 @@
 Code trước khi tạo repository
-code dòng 1
+code dòng 6
 code dòng 2
 
 code dòng 3
-code dòng 5
+code dòng thứ 5
